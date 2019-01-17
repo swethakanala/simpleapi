@@ -1,0 +1,17 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "simple task",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "swetha kanala",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.4"
+  }
+}
